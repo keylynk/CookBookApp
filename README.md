@@ -6,9 +6,9 @@ Repository: https://github.com/keylynk/CookBookApp.git
 
 ## Danh sách nhóm:
 
-- Nguyễn Tiến Lộc 20521549
-- Trần Linh Nhi 20521719
-- Kim Line 19201135
+- 20521549 Nguyễn Tiến Lộc 
+- 20521719 Trần Linh Nhi 
+- 19201135 Kim Line 
 
 ---
 
